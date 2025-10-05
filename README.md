@@ -1,4 +1,4 @@
-📊 AI Financial Market Analysis
+<h1>📊 AI Financial Market Analysis</h1>
 
 Leveraging AI and data science to uncover insights from financial market trends
 
