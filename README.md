@@ -1,3 +1,7 @@
+📊 AI Financial Market Analysis
+
+Leveraging AI and data science to uncover insights from financial market trends
+
 🎯 Overview
 An intelligent data analysis project that explores financial market patterns using Python and AI-driven techniques. This project combines data cleaning, visualization, and advanced analytics to understand key trends across major tech companies including OpenAI, Meta, and Google from 2018-2024.
 ✨ Features
