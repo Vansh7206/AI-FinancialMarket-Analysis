@@ -7,13 +7,18 @@ An intelligent data analysis project that explores financial market patterns usi
 ✨ Features
 
 📈 Comprehensive Data Analysis: Multi-year financial market trend analysis
+
 🤖 AI-Driven Insights: Machine learning techniques for pattern recognition
+
 📊 Rich Visualizations: Interactive charts and graphs using Python libraries
+
 🧹 Data Cleaning Pipeline: Robust preprocessing for accurate analysis
+
 🔍 Trend Discovery: Identify key patterns and market movements
 
 🗂️ Project Structure
 AI-FinancialMarket-Analysis/
+
 │
 ├── AI_Data_Analysis.ipynb          # Main analysis notebook
 ├── ai_financial_market_daily_realistic_synthetic.csv  # Market dataset
